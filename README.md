@@ -1,0 +1,2 @@
+# TAIL LLM projects
+The goal of theses notebook at this repo is to give a first look in the basics to build a cool llm project. Not much fancy, on the way, my main objective is to make this a good quickstart guide
